@@ -103,7 +103,7 @@ Image shows peak hours of resource booking.
 
 - Event-driven programming
 
-# 👥 Team Members
+## 👥 Team Members
 
 - Hamna Mahmood
 
@@ -111,7 +111,7 @@ Image shows peak hours of resource booking.
 
 - Emaan Hanif
 
-📦 Installation & Setup
+# 📦 Installation & Setup
 ## Clone repository
 git clone https://github.com/hamna-mahmood/Smart-Campus-Resource-Management-System.git
 
