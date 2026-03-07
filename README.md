@@ -48,45 +48,45 @@ Developed as a team project for software design.
 - Booking history storage
 
 ## 🖥️ Screenshots
-- Account Creation
+- Account Creation: 
 This feature allows users (students & teachers) to create their accounts.
 ![Account Creation](images/account-creation.PNG)
 
-- Student Login
+- Student Login:
 Students can login to their accounts.
 ![Student Login](images/student-login.PNG)
 
-- Student Dashboard
+- Student Dashboard:
 This image displays actions that students can perform such as booking a resource by entering name of resource, booking start hours, end hours and purpose of booking.
 ![Student Dashboard](images/student-dashboard.PNG)
 
-- Teacher Login
+- Teacher Login:
 Given image shows a teacher logging in to their account.
 ![Teacher Login](images/taecher-login.PNG)
 
-- Teacher Dashboard
+- Teacher Dashboard:
 Given image shows teacher booking resource by entering name of resource, booking start hours, end hours as well as purpose of booking.
 ![Teacher Dashboard](images/teacher-dashboard.PNG)
 
-- Admin Login
+- Admin Login:
 The image shows admin logging in.
 ![Admin Login](images/admin-login.PNG)
 
-- Admin Inventory
+- Admin Inventory:
 The image shows admin inventory as well as admin adding a resource to the system. Total resources stored in the system can also be seen in the table.
 ![Admin Inventory](images/admin-inventory.PNG)
 
-- Admin Dashboard
+- Admin Dashboard:
 This image shows admin privileges such as graph view of resource usage, peak booking hours as well as the option to export CSV.
 ![Admin Dashboard](images/admin-dashboard.PNG)
 
-- Resource Usage Graph
+- Resource Usage Graph:
 The image shows quick and easy view of resource usage.
 ![Resource Usage Graph](images/resource-usage-graph.PNG)
 
-- Booking Peak Hours
+- Booking Peak Hours:
 Image shows peak hours of resource booking.
-![Resource Usage Hours](images/resource-usage-hrs.PNG)
+![Resource Usage Hours](images/resource-usage-hours.PNG)
 
 ## 🛠️ Technologies Used
 
