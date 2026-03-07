@@ -13,7 +13,7 @@ This system enables role-based resource management for:
 
 Developed as a team project for software design.
 
-# 🧠 Features
+## 🧠 Features
 
 ✅ User Authentication (Signup / Login)
 ✅ Role-Based Dashboards
@@ -22,7 +22,7 @@ Developed as a team project for software design.
 ✅ Report Visualization
 ✅ Data Persistence using Database
 
-# 🏗️ Software Architecture
+## 🏗️ Software Architecture
 - 🎨 Frontend Layer (PyQt5 UI)
 
 - Role-based dashboards
@@ -31,7 +31,7 @@ Developed as a team project for software design.
 
 - Booking forms and navigation
 
-# ⚙️ Business Logic Layer
+## ⚙️ Business Logic Layer
 
 - Access control
 
@@ -39,7 +39,7 @@ Developed as a team project for software design.
 
 - Conflict detection
 
-# 🗄️ Database Layer (SQLite)
+## 🗄️ Database Layer (SQLite)
 
 - User management
 
@@ -47,7 +47,7 @@ Developed as a team project for software design.
 
 - Booking history storage
 
-# 🖥️ Screenshots
+## 🖥️ Screenshots
 - Account Creation
 This feature allows users (students & teachers) to create their accounts.
 ![Account Creation](images/account-creation.PNG)
@@ -88,7 +88,7 @@ The image shows quick and easy view of resource usage.
 Image shows peak hours of resource booking.
 ![Resource Usage Hours](images/resource-usage-hrs.PNG)
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 
@@ -109,13 +109,13 @@ Image shows peak hours of resource booking.
 - Emaan Hanif
 
 📦 Installation & Setup
-# Clone repository
+## Clone repository
 git clone https://github.com/hamna-mahmood/Smart-Campus-Resource-Management-System.git
 
-# Navigate to project
+## Navigate to project
 cd repo-name
 
-# Install dependencies
+## Install dependencies
 pip install pyqt5 matplotlib sqlite3
 
 Run application:
@@ -137,4 +137,4 @@ Improve campus resource utilization
 
 Provide efficient booking workflows
 
-Apply HCI design principlesu
+Efficient addition/removal of campus resources
