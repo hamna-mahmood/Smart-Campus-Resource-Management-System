@@ -11,7 +11,10 @@ This system enables role-based resource management for:
 
 - 🎓 Students
 
-Developed as a team project for software design.
+## Main Flow
+- Admins through login can add, remove resources as well as view resource usage graph, peak booking hours graph and export CSV files.
+- Students through login and signup can book resources as well as cancel booking.
+- Teachers through login and signup can book and cancel resource bookings.
 
 ## 🧠 Features
 
@@ -62,7 +65,7 @@ This image displays actions that students can perform such as booking a resource
 
 - Teacher Login:
 Given image shows a teacher logging in to their account.
-![Teacher Login](images/taecher-login.PNG)
+![Teacher Login](images/teacher-login.PNG)
 
 - Teacher Dashboard:
 Given image shows teacher booking resource by entering name of resource, booking start hours, end hours as well as purpose of booking.
