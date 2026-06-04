@@ -6,11 +6,11 @@ A Desktop Application built using Python + PyQt5 to simulate real-world campus r
 
 This system enables role-based resource management for:
 
-- 👨‍💼 Admins
+- Admins
 
-- 👩‍🏫 Teachers
+- Teachers
 
-- 🎓 Students
+- Students
 
 ## Main Flow
 - Admins through login can add, remove resources as well as view resource usage graph, peak booking hours graph and export CSV files.
@@ -116,7 +116,8 @@ pip install pyqt5 matplotlib sqlite3
 Run application:
 
 python main.py
-⭐ Future Improvements
+
+## Future Improvements
 
 Cloud database integration
 
@@ -126,7 +127,7 @@ Advanced analytics dashboard
 
 AI-based resource prediction
 
-💡 Project Goals
+## Project Goals
 
 Improve campus resource utilization
 
