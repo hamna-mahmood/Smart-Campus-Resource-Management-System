@@ -1,5 +1,6 @@
-# 🏫 Smart Campus Resource Management System
-## 📌 Project Overview
+# Smart Campus Resource Management System
+
+## Project Overview
 
 A Desktop Application built using Python + PyQt5 to simulate real-world campus resource booking workflows.
 
@@ -16,17 +17,16 @@ This system enables role-based resource management for:
 - Students through login and signup can book resources as well as cancel booking.
 - Teachers through login and signup can book and cancel resource bookings.
 
-## 🧠 Features
+## Features
+- User Authentication (Signup / Login)
+- Role-Based Dashboards
+- Resource Booking & Management
+- Booking Conflict Detection
+- Report Visualization
+- Data Persistence using Database
 
-✅ User Authentication (Signup / Login)
-✅ Role-Based Dashboards
-✅ Resource Booking & Management
-✅ Booking Conflict Detection
-✅ Report Visualization
-✅ Data Persistence using Database
-
-## 🏗️ Software Architecture
-- 🎨 Frontend Layer (PyQt5 UI)
+## Software Architecture
+- Frontend Layer (PyQt5 UI)
 
 - Role-based dashboards
 
@@ -34,7 +34,7 @@ This system enables role-based resource management for:
 
 - Booking forms and navigation
 
-## ⚙️ Business Logic Layer
+##  Business Logic Layer
 
 - Access control
 
@@ -42,7 +42,7 @@ This system enables role-based resource management for:
 
 - Conflict detection
 
-## 🗄️ Database Layer (SQLite)
+## Database Layer (SQLite)
 
 - User management
 
@@ -50,7 +50,7 @@ This system enables role-based resource management for:
 
 - Booking history storage
 
-## 🖥️ Screenshots
+## Screenshots
 - Account Creation: 
 This feature allows users (students & teachers) to create their accounts.
 ![Account Creation](images/account-creation.PNG)
@@ -91,7 +91,7 @@ The image shows quick and easy view of resource usage.
 Image shows peak hours of resource booking.
 ![Resource Usage Hours](images/resource-usage-hours.PNG)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 
@@ -103,15 +103,7 @@ Image shows peak hours of resource booking.
 
 - Event-driven programming
 
-## 👥 Team Members
-
-- Hamna Mahmood
-
-- Komal Kashif
-
-- Emaan Hanif
-
-# 📦 Installation & Setup
+# Installation & Setup
 ## Clone repository
 git clone https://github.com/hamna-mahmood/Smart-Campus-Resource-Management-System.git
 
@@ -141,3 +133,8 @@ Improve campus resource utilization
 Provide efficient booking workflows
 
 Efficient addition/removal of campus resources
+
+## Author
+- Hamna Mahmood.
+- https://linkedin.com/hamnamahmood
+- hamnamahmood004@gmail.com
